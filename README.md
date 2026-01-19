@@ -13,7 +13,7 @@ YOU UNDERSTAND THAT YOU ARE AGREEING TO USE AT YOUR OWN RISK ONCE AGAIN, ALL FIL
 
 ### 🎮 Version Support
 
-- Battle Realms Zen Edition (v1.58.3)
+- Battle Realms Zen Edition (v1.59.1)
 - Battle Realms (GOG-GR)
 
 ## Usage via Direct Download
