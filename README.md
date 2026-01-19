@@ -6,6 +6,11 @@
 
 #### ⚠️ The maps archive data about 80% over 900+ maps from forums.gamingterritory.com
 
+## Disclaimer
+THE	MAPS WITHIN THIS RESPOSITORY COMES WITH NO  GUARANTEE THE USE OF THIS MAPS IS YOUR RESPONSIBILITY AND/OR LIABILITY FOR HOW YOU
+CHOOSE TO USE ANY OF THE MAP FILES AVALIABLE HERE. BY USING ANY OF THE MAP FILES AVALIABLE IN THIS REPOSITORY, 
+YOU UNDERSTAND THAT YOU ARE AGREEING TO USE AT YOUR OWN RISK ONCE AGAIN, ALL FILES.
+
 ### 🎮 Version Support
 
 - Battle Realms Zen Edition (v1.58.3)
@@ -20,11 +25,6 @@
 
 #### <h2> 🔴 Note : if you want to see all files please go to branch : <a href="https://github.com/KravitzMC/BattleRealmsMapPacks/tree/main-levels">Main-Levels</a></h2>
 
-
-## Disclaimer
-THE	MAPS WITHIN THIS RESPOSITORY COMES WITH NO  GUARANTEE THE USE OF THIS MAPS IS YOUR RESPONSIBILITY AND/OR LIABILITY FOR HOW YOU
-CHOOSE TO USE ANY OF THE MAP FILES AVALIABLE HERE. BY USING ANY OF THE MAP FILES AVALIABLE IN THIS REPOSITORY, 
-YOU UNDERSTAND THAT YOU ARE AGREEING TO USE AT YOUR OWN RISK ONCE AGAIN, ALL FILES.
 
 ## License
 [![License: CC BY-NC-ND 4.0](https://github.com/battlerealmsmodeditor/BattleRealmsMapPacks/blob/main/byncsa_licensecommon.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
